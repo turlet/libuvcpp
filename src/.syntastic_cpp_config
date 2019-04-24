@@ -1,0 +1,4 @@
+-I../build/libuv-prefix/src/libuv/include
+-I../build/nul-prefix/src/nul/src
+-I.
+
