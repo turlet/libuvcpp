@@ -47,7 +47,7 @@ ExternalProject_Add(libuv
 ExternalProject_Add(libutil
   GIT_REPOSITORY "https://github.com/turlet/libutil.git"
   #GIT_REPOSITORY "${GIT_REPOSITORY_DIR}/libutil"
-  GIT_TAG "master"
+  GIT_TAG "0.0.1"
   CMAKE_ARGS ""
   UPDATE_COMMAND ""
   INSTALL_COMMAND ""
